@@ -2,7 +2,7 @@
 This repository utilizes PyTorch framework in order to classify food images in a in-class Kaggle challange.
 Repository is a proposed solution as part of an Applied Machine Learning course at University of Amsterdam MS Information Studies: Data Science.
 
-#Description
+# Description
 1. Dataset_EDA.ipynb - Visualizes provided dataset in order ot inspect for any data imbalance problems.
 2. Dataset_Modifications.ipynb - Implements data augmentation techniques to balance class numbers.
 3. Ensemble_PyTorch_Model.ipynb - Implementation of simple commity of networks model ensembling.
